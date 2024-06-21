@@ -1,0 +1,11 @@
+HaoHao - Hảo hảo - Food
+Omachi - Omachi - Food
+Pho - Phở - Food
+Snack - Snack - Food
+Tiger - Tiger - Drink
+Heineken - Heineken - Drink
+Cocacola - Cocacola - Drink
+Pepsi - Pepsi - Drink
+Aquafina - Aquafina - Drink
+GiatSay - Giặt sấy - Room
+DonPhong - Dọn phòng - Room
